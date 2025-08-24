@@ -9,5 +9,5 @@ ARGV.each do|a|
   puts "Argument: #{a}"
 end
 
-puts "Das ist das Ende..."
-puts "Ab hier auf jeden Fall..."
+puts "Finish..."
+
