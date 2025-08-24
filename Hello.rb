@@ -1,2 +1,3 @@
 #!/usr/bin/ruby
-puts 'Ich werde auf den Bildschirm auszugeben'
+puts 'Dies ist mein erstes Ruby-Script hier...'
+puts 'Und wird auf Github veröffentlicht...'
