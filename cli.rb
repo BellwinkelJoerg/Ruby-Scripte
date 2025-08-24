@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 
 if ARGV.empty?
   puts "Using: cli.rb <ARG1> <ARG2> ..."
